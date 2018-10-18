@@ -1,0 +1,6 @@
+                                                   Live Safe,Live Smart
+
+The name of our project is "Live Safe,Live Smart", we are going to design an application in which we will be
+implementing something that is going to help the society especially women of our society, this application will
+update the current location of the person to the designated contacts whenever the person wants to do so, or feels
+like they are in any problem or not safe. Even if the internet is not available it will work offline.
